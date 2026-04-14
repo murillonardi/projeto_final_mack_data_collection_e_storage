@@ -6,3 +6,6 @@ Neste repositório, estão disponibilizados dois arquivos: o arquivo "entrega_fi
 
 # Instruções para execução do código
 É necessário estabelecer a conexão do Google Colab com o runtime padrão da ferramenta, e então executar as células na ordem em que estão escritas no arquivo.
+
+#Link Alternativo para o Arquivo no Colab
+https://colab.research.google.com/drive/1jOKpbYMvRKXiBJnoDXaMxb9pgGpf6ky2#scrollTo=xKBp8tMxLU_q
